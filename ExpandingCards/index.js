@@ -10,3 +10,5 @@ function removeActClass() {
     panel.classList.remove("active");
   });
 }
+
+    
