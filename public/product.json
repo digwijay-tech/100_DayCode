@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 59.99,
+      "isFeatured": true,
+      "category": "Electronics",
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "image": "https://avstore.in/cdn/shop/files/1.AVStore-Sonos-Ace-Front-Angled-View-Hero-Black.jpg?v=1725620870"
+    },
+    {
+      "id": 2,
+      "name": "Men's Running Shoes",
+      "price": 89.99,
+      "isFeatured": false,
+      "category": "Footwear",
+      "description": "Lightweight running shoes designed for maximum comfort and durability.",
+      "image": "https://www.tracerindia.com/cdn/shop/files/5_b9e029ad-1e6d-4930-9f21-e977c1f8586a.jpg?v=1688541181&width=1445"
+    },
+    {
+      "id": 3,
+      "name": "Smart Fitness Watch",
+      "price": 129.99,
+      "isFeatured": true,
+      "category": "Wearables",
+      "description": "Track your workouts, heart rate, and sleep patterns with this sleek fitness watch.",
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/25739102/2023/11/2/a1216917-b3b5-49d5-841e-6672c50d3ce31698930303418SmartWatches1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Organic Green Tea (100 Bags)",
+      "price": 19.99,
+      "isFeatured": false,
+      "category": "Groceries",
+      "description": "Refreshing organic green tea sourced from the finest plantations.",
+      "image": "https://jollypharmaindia.com/cdn/shop/products/Pack_of_1-1.jpg?v=1671288015"
+    },
+    {
+      "id": 5,
+      "name": "Laptop Backpack",
+      "price": 49.99,
+      "isFeatured": true,
+      "category": "bagpack",
+      "description": "Water-resistant laptop backpack with multiple compartments and ergonomic design.",
+      "image": "https://carrytrip.in/cdn/shop/files/Untitleddesign_1_b3db9451-bbe1-4a7a-9d2b-9bcee8f5f0c0.jpg?v=1734698418"
+    }
+  ]
+}

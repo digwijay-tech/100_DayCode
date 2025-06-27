@@ -1,50 +1,12 @@
-# 100_DayCode 🚀
+# React + Vite
 
-Welcome to my **#100DaysOfCode** challenge! This repository contains daily projects, mini apps, and exercises to sharpen my web development skills. Each folder represents a small project or task completed during the challenge.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 📁 Projects
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-### 1. 📷 ImageSlider
-A simple image slider built using JavaScript. Features:
-- Manual navigation
-- Auto-play functionality
-- Responsive design
+## Expanding the ESLint configuration
 
-### 2. ✊✋✌️ RockPaperScissor
-A basic Rock-Paper-Scissors game:
-- Interactive UI
-- Randomized computer choice
-- Score tracking
-
-### 3. 💬 TestimonialSlide
-A testimonial slider showcasing user reviews:
-- Previous/next navigation
-- Smooth transitions
-- Customizable content
-
-### 4. 🧠 LeetCode
-This folder contains JavaScript solutions for selected LeetCode problems:
-- Problem name and description in comments
-- Clean and readable code
-- Optimized for performance
-
----
-
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript (Vanilla)
-
----
-
-## 📅 Progress Log
-I will update this repo daily with new projects or exercises as part of my 100-day challenge.
-
----
-
-## 📌 How to Use
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/digwijay-tech/100_DayCode.git
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
